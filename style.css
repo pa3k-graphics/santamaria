@@ -635,10 +635,11 @@ p {
 	.thumbnail-grid{
 		gap: 20px;
 		--num-cols: 1;
-		--row-height: 250px;
+		--row-height: 210px;
 		
 	}
 	.zistit-viac{
+		margin-top: -40px;
 		display: block;
 	}
 	.hero-ziadost{
@@ -654,14 +655,15 @@ p {
 		padding: 0 35px;
 	}
 	.responsive-size{
-		transform: scale(0.68);
-		margin-left: -105px;
+		transform: scale(0.62);
+		margin-left: -120px;
 	}
 	.tuzite-po{
 		width: 370px;
 		height: 925px;
 		border-radius: 35px;
-		margin-left: -55px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	.tuzite-po-title{
 		font-size: 3.5rem;
