@@ -635,28 +635,28 @@ p {
 	.thumbnail-grid{
 		gap: 20px;
 		--num-cols: 1;
-		--row-height: 210px;
-		
+		--row-height: 190px;
+		border-radius: 24px;
 	}
 	.zistit-viac{
 		margin-top: -40px;
 		display: block;
 	}
 	.hero-ziadost{
-		margin-left: -23px;
+		margin-left: -32px;
 		margin-top: 18px;
 
 	}
 	.cta{
 		padding: 20px 60px;
-		margin-left: -23px;
+		margin-left: -33px;
 	}
 	.o-mne_text{
 		padding: 0 35px;
 	}
 	.responsive-size{
 		transform: scale(0.62);
-		margin-left: -120px;
+		margin-left: -140px;
 	}
 	.tuzite-po{
 		width: 370px;
